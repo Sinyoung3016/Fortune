@@ -4,7 +4,7 @@ tagline: Habitus
 url: https://github.com/Sinyoung3016/Fortune
 paginate: 1
 baseurl: ""
-permalink: :title/
+permalink: /Fortune/:title/
 
 kramdown:
     footnote_backlink: "&#10548;"
