@@ -1,9 +1,9 @@
 # Setup
 title: Fortune
 tagline: Habitus
-url: https://sinyoung3016.github.io/
+url: https://github.com/Sinyoung3016/Fortune
 paginate: 1
-baseurl: Fortune/
+baseurl: ""
 permalink: :title/
 
 kramdown:
