@@ -1,10 +1,10 @@
 # Setup
 title: Fortune
 tagline: Habitus
-url: https://github.com/Sinyoung3016/Fortune
+url: https://sinyoung3016.github.io/Fortune/
 paginate: 1
-baseurl: ""
-permalink: :Fortune/title/
+baseurl: Fortune/
+permalink: /:title/
 
 kramdown:
     footnote_backlink: "&#10548;"
