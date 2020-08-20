@@ -15,7 +15,7 @@ last_modified_at: 2020-07-23
 ># Pier39
 
 <figure>
-  <center><img src="/assets/ShortTerm1/KakaoTalk_20200723_161419783_10.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_10.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Pier39</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ last_modified_at: 2020-07-23
 ># Ghirardelli
 
 <figure>
-  <center><img src="/assets/ShortTerm1/KakaoTalk_20200723_161419783_11.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_11.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Ghirardelli</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ last_modified_at: 2020-07-23
 ># Union Square
 
 <figure>
-  <center><img src="/assets/ShortTerm1/KakaoTalk_20200723_161419783_12.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_12.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Union Square</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ last_modified_at: 2020-07-23
 ># San Fransisco CityHall
 
 <figure>
-  <center><img src="/assets/ShortTerm1/KakaoTalk_20200723_161419783_14.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_14.png" alt="Midnight" style="width:100%"></center>
   <figcaption>San Fransisco CityHall</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ last_modified_at: 2020-07-23
 ># Golden Gate Bridge
 
 <figure>
-  <center><img src="/assets/ShortTerm1/KakaoTalk_20200723_161419783_13.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_13.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Golden Gate Bridge</figcaption>
 </figure>
 

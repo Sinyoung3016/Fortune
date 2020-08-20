@@ -19,7 +19,7 @@ last_modified_at: 2020-07-23
 > 둘째날 in Google Community Space
 
 <figure>
-  <center><img src="/assets/51C/KakaoTalk_20200723_161419783_04.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/51C/KakaoTalk_20200723_161419783_04.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Design Sprint</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ last_modified_at: 2020-07-23
 
 <br>
 <figure>
-  <center><img src="/assets/51C/KakaoTalk_20200723_161419783_03.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/51C/KakaoTalk_20200723_161419783_03.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Team2</figcaption>
 </figure>
 

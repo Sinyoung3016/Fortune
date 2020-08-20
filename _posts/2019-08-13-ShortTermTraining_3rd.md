@@ -20,7 +20,7 @@ last_modified_at: 2020-07-23
 
 
 <figure>
-  <center><img src="/assets/51C/KakaoTalk_20200723_161419783_05.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/51C/KakaoTalk_20200723_161419783_05.png" alt="Midnight" style="width:100%"></center>
   <figcaption>51 Conference</figcaption>
 </figure>
 
