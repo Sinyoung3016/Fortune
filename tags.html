@@ -9,7 +9,7 @@ title: Tags
 {% for tag in tags_sorted %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-	
+
     <div id="#{{ tag_name | slugize }}"></div>
 
     <h3 class="tag-head"><small>#{{ tag_name }}</small></h3>
@@ -17,7 +17,7 @@ title: Tags
 
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
-      <a href="{{ post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</a>
+      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</a>
     </article>
     {% endfor %}
   </div>
