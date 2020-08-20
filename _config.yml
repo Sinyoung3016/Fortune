@@ -1,9 +1,9 @@
 # Setup
-title: Fortune
+title: MisFortune
 tagline: Habitus
 url: https://github.com/Sinyoung3016/Fortune
 paginate: 1
-baseurl: /Fortune/
+baseurl: /Fortune
 permalink: :title/
 
 kramdown:
@@ -37,7 +37,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Fortune
+  name: Fortune00
   url: https://github.com/Sinyoung3016/Fortune
   email: tasha0415@naver.com
 
