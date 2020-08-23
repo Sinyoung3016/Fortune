@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ShortTerm Training 2nd
+title: "[ShortTerm_Training] Company Tour"
 date: 2019-08-12 00:00:00
 categories: [FRESHMAN]
 tags: [SILICON_VALLEY]

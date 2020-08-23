@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ShortTerm Training 3rd
+title: "[ShortTerm_Training] 51 Conference - 01"
 date: 2019-08-13 00:00:00
 categories: [FRESHMAN]
 tags: [SILICON_VALLEY]

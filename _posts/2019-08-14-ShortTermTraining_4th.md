@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ShortTerm Training 4th
+title: "[ShortTerm_Training] 51 Conference - 02"
 date: 2019-08-14 00:00:00
 categories: [FRESHMAN]
 tags: [SILICON_VALLEY]
@@ -33,7 +33,7 @@ last_modified_at: 2020-07-23
 <br>
 # 가장 중요한 것은 사람들이 과연 사용할 것인가
 
-> <p> 1. Research </p>
+> 1.&emsp;Research
 <p> &emsp; : '사용자의 경험과 사용자에 공감하는 디자인'을 만들기 위한 조사. 물건의 핵심가치를 파악하는 것이 중요하다.</p>
 
 <p> &emsp;Research는 크게 1) Observing 2) Interviewing 3) Synthesis로 구성되어 있다.
@@ -45,22 +45,24 @@ last_modified_at: 2020-07-23
 <p> &emsp;Synthesis은 인터뷰와 관찰결과를 정리하고 도출하는 것이다. 먼저 위의 내용을 전부 포스트잇에 간단히 적는다. 심지어 사진도! 이후에 비슷한 맥락의 포스트잇끼리 그룹핑한다. 그리고 유사한 제품 경험을 조사해 현재의 트랜드와 사람들이 어떤 부분을 원하는 지 알아본다.</p>
 <br>
 
-> <p> 2. Ideation </p>
+> 2.&emsp;Ideation
+
 <p> &emsp; : 먼저 'HMW(How might we)'를 통해 조사한 내용을 기반으로 포스트잇에 간략하게 아이디어로 바꿀 수 있는 문장을 적는다. 그리고 다시 비슷한 맥락으로 그룹핑한다.
 또 다시 이를 기반으로 '8s'를 통해 짧은 시간에 8개 아이디어를 그린다.(중요한 것은 짧은 시간에 이루어져야 한다는 것) 그 중 좋은 아이디어 2~3개를 상세히 구체화 해 적거나 그린다. 그리고 팀원들과 토론하고 발표해 좋은 아이디어를 투표한다.
 </p>
 <br>
 
-> <p> 3. Prototype </p>
+> 3.&emsp;Prototype
 <p>: 가설을 실험하는 것. 쉽게 만들 수 있도록. 가장 빨리 질문에 답할 수 있는 prototype을 만드는 것이 중요하다. 질문조사를 통해 팩트를 찾고, 이를 기반으로 문제점을 확인, 가설을 세우고 이를 기반으로 프로토타입을 만듬.</p>
 
 
->> 프로토 타입을 만들 때, 가장 중요하게 생각해야 하는 부분
+ ***프로토 타입을 만들 때, 가장 중요하게 생각해야 하는 부분***
 <p> &emsp;- 프로토타입으로 사용자가 이것으로 무엇을 할 수 있는지 쉽게 이해 가능한가? <br>
 &emsp;- 사용자가 왜 이 제품을 사용해야 할지 설명 가능한가? (정확함 & 예쁨 같은 근본 외의 것은 중요하지 않음.)</p>
 <br>
 
-> <p> 4. Pitching & Storytelling </p>
+> 4.&emsp;Pitching & Storytelling
+
 <p> 1) Content  <br>
  &emsp;- 핵심질문 : 문제 - 왜 - 해결<br>
  &emsp;- 마켓사이즈<br>
