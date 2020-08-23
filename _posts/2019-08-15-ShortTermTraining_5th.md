@@ -12,9 +12,9 @@ last_modified_at: 2020-07-23
 
 ---
 
-># Post Conference
+## Post Conference
 
-> 첫째날 in Studio, Yahoo와 Contraband Coffee 근처
+##### 첫째날 in Studio, Yahoo와 Contraband Coffee 근처
 
 <figure>
   <center><img src="/Fortune/assets/PostC/KakaoTalk_20200723_161419783_02.png" alt="Midnight" style="width:100%"></center>
@@ -22,19 +22,25 @@ last_modified_at: 2020-07-23
 </figure>
 
 <p> &emsp;51 Conference 이후 Post Conference는 충남대 1학년 12명과 Google의 소프트웨어 엔지니어들과 디자이너가 함께했다. Post Conference는 멘토님들의 간단한 강의 후, 어제 배운 디자인 스프린트에서 더 나아가 Google 제품 중에서 개선점이나 추가할 점을 생각해 자세히 구체화하고 실제 이 제품을 판매하듯 멘토님들 앞에서 Pitching을 하는 구성으로 진행되었다. 대부분의 시간은 아이디어를 짜고 멘토님들이 옆에서 조언해주는 형식으로 진행되었고 사이사이 멘토님들의 강의가 이루어졌다. </p>
+<br>
 
->> <p> - 실험할때 novelty effect 주의<br>
->>	- play with data (SQL hadoop spark python)<br>
->>	- 변수 설정 -> 통계<br>
->>	- 배운 것을 다른 사람에게 (선생이자 학생이 되자)<br>
->>	- 지적 당할 때, 저사람이 나를 돕기위함이라는 믿음이 있어야함(Feedback 받아드리기)<br>
->>	- leader의 종류(전략적 생각, 관계-공감능력, 남에게 영향을 주는, 실행력) <br>
->>	- balance between do and think</p>
+__멘토님들이 강의에서 강조하신 부분__
+<p>
+- 실험할때 novelty effect 주의<br>
+- play with data (SQL hadoop spark python)<br>
+- 변수 설정 -> 통계<br>
+- 배운 것을 다른 사람에게 (선생이자 학생이 되자)<br>
+- 지적 당할 때, 저사람이 나를 돕기위함이라는 믿음이 있어야함(Feedback 받아드리기)<br>
+- leader의 종류(전략적 생각, 관계-공감능력, 남에게 영향을 주는, 실행력) <br>
+- balance between do and think</p>
+<br>
 
 ---
 
 <br>
-> Google Route
+
+### Google Route
+<br>
 
 <p> &emsp;여행을 좋아하는 나는 해외여행을 갈때 구글맵을 사용해 여행지를 저장해두는데, 이때 여행지를 연결할 수 없어 불편한 경험이 있었다. (코스를 짜고 싶었다!) 그래서 우리팀은 이 점을 문제로 설정하였고 최적의 루트를 짤 수 있는 서비스를 만들기로 하였다. </p>
 
@@ -59,9 +65,9 @@ last_modified_at: 2020-07-23
 <p> &emsp;위와 같은 상황 외에도 우리가 어디있든, 무엇을 하든 계속해서 아이디어를 내고, 서로를 설득하고, 의견을 취합했다. 분명히 미국가기 전에 준비를 해갔고, 멘토님께도 소재에 대한 합격을 받아 다른 조보다 빠르게 진행했음에도 아야기를 나눌께 끝이 없었다. 저녁을 먹으면서도 회의를 진행했고, 저녁을 다 먹을 쯤에야 합의가 나서 밥도 거의 안 먹었다. 일정이 끝나고 숙소에 도착하고 나서 9시부터 숙소 로비는 우리의 것이였다. 다같이 모여 노트북을 치고 있는 모습을 보며 여기가 숙소 로비인지 우리 과인지 구별할 수 없었다. (로비와 식당이 같이있는 구조라 식당에서 조금 떠들어도 제지하지 않았다. 오히려 데스크 언니들이 친절하게 피자시키는 것도 도와줬다.)
 </p>
 
-<p>&nbsp;</p>
+<br>
 
-> 둘째날 in Studio, San Fransisco Station 근처 어딘가 & Google
+##### 둘째날 in Studio, San Fransisco Station 근처 어딘가 & Google
 
 <figure>
   <center><img src="/Fortune/assets/PostC/KakaoTalk_20200723_161419783.png" alt="Midnight" style="width:100%"></center>

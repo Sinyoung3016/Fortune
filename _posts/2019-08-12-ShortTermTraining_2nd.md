@@ -12,7 +12,7 @@ last_modified_at: 2020-07-23
 
 ---
 
-># Adobe
+## Adobe
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_09.png" alt="Midnight" style="width:100%"></center>
@@ -25,7 +25,7 @@ last_modified_at: 2020-07-23
 <p> &emsp;어도비는 출퇴근 시간이 자유로우며 실리콘벨리의 다른 회사들과 다르지 않게 성과 위주의 회사이다. 또한 매니져를 통해 승진과 같은 인사 사항을 결정한다고 한다.</p>
 <br>
 
-># Google
+## Google
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_08.png" alt="Midnight" style="width:100%"></center>
@@ -46,7 +46,7 @@ last_modified_at: 2020-07-23
 언어는 파이썬과 C++을 주로 이야기 하셨는데, 파이썬은 간단한 아이디어의 데모나 프로토타입을 만들기 쉽고 문자열, 배열, 리스트를 다루기 쉽다고 하셨다. 또한 C++의 경우에는 사람이 이해하기 쉬우면서 기계에 최적화된 언어라 규모가 큰 시스템에서 많이 사용한다고 한다. 이와 관련된 라이브러리도 많아 C++을 강조하셨다.</p>
 <br>
 
-># Airbnb
+## Airbnb
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_07.png" alt="Midnight" style="width:100%"></center>
@@ -62,7 +62,7 @@ last_modified_at: 2020-07-23
 <p>&emsp;에어비엔비는 자기에 능력에 맞는 레벨(=직급)을 가지는데, 레벨을 올리고 싶으면 다음 레벨에 맞는 능력을 가지고 있음을 어필하면 된다고 한다. 그래서 그런지 멘토님은 내가 해야하는 것 보다 하나 더 많을 걸 하라고 조언했다. 또한 포트폴리오를 짤때, 수치화와 논리를 강조하셨다.</p>
 <br>
 
-># Computer History Museum
+## Computer History Museum
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_06.png" alt="Midnight" style="width:100%"></center>

@@ -12,7 +12,7 @@ last_modified_at: 2020-07-23
 
 ---
 
-># Pier39
+## Pier39
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_10.png" alt="Midnight" style="width:100%"></center>
@@ -24,7 +24,7 @@ last_modified_at: 2020-07-23
 <p> &emsp;Pier39의 건너편에서는 ALCATRAZ도 볼 수 있다. 알카드라즈 섬은 악마의 섬이라고 불리며 빠른 조류와 낮은 수온으로 악명높다. 이러한 점을 이용해 섬을 통째로 감옥으로 만들었고 단 3명의 죄수가 탈출한 감옥으로 유명하다. 버스투어를 도와주신 팀아저씨가 전직 알카드라즈 Park Ranger라 재미있는 이야기를 많이 들을 수 있었다. 최근에는 관광지로 바뀌어 투어도 할 수 있다고 한다. </p>
 <br>
 
-># Ghirardelli
+## Ghirardelli
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_11.png" alt="Midnight" style="width:100%"></center>
@@ -35,7 +35,7 @@ last_modified_at: 2020-07-23
 초콜릿을 안 좋아하는 나지만 이곳에서 가장 유명한 SeaSalt and Almond 맛 초콜릿은 정말 맛있었다. 그래서 친구들 선물로 왕창 사가지고 왔다! </p>
 <br>
 
-># Union Square
+## Union Square
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_12.png" alt="Midnight" style="width:100%"></center>
@@ -45,7 +45,7 @@ last_modified_at: 2020-07-23
 <p>&emsp;유니온 스퀘어은 마치 명동과 비슷하지만 훨씬 넓은 광장이였다. 다양하고 유명한 브랜드들이 가득했고, 많은 회사들이 있는 고층 건물들도 많았다. 광장 중앙에는 스페인 해군과의 전쟁에서 승리한 조지 듀이 제독의 동상도 있고 주변으로 샌프란시스코의 명물이라는 케이블카도 지나다니고 있었다. 케이블카 노선을 따라 가니 종점이 나왔는데 재미있게도 사람들이 직접 손으로 돌려서 노선을 바꾸는 모습을 볼 수 있었다. 이후에 CheeseCake Factory를 들려서 저녁에 야식으로 초코와 레드벨벳 치즈케잌을 먹었는데 진짜 너무 맛있었다. 밤마다 프로젝트를 열심히 준비했는데 여태 쌓였던 스트레스가 풀리는 단맛이였다! 친구들도 어떻게 생크림도 맛있냐며 극찬했던 기억이 난다.</p>
 <br>
 
-># San Fransisco CityHall
+## San Fransisco CityHall
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_14.png" alt="Midnight" style="width:100%"></center>
@@ -55,7 +55,7 @@ last_modified_at: 2020-07-23
 <p> &emsp;51컴퍼런스 1일차가 끝나고 현지언니가 추천해준 시청을 가기로 했다. 우리 집앞에 있는 시청과 너무 달라 놀랐다. 겉에서 봐도 아름다운데 안은 더 아름다웠다. 개장시간도 정해져 있고 안에는 안전요원들이 입장할 때 소지품 검사도 했다. 안으로 들어가자 안전요원 아저씨가 설명도 해줬는데, 시장님과 공무원들이 계시면 조용히 관람해야 되냐는 질문에 전부 퇴근했으니 소리도 질러도 된다는 답을 주셨다. 그외에도 친절하게 설명해주셨는데 사실 기억에 남지 않았다. 시청 밖에는 넓게 광장도 있고 근처에는 도서관, 법원 등도 있었다. 또한 놀이터도 있어서 재미나게 놀았다.</p>
 <br>
 
-># Golden Gate Bridge
+## Golden Gate Bridge
 
 <figure>
   <center><img src="/Fortune/assets/ShortTerm1/KakaoTalk_20200723_161419783_13.png" alt="Midnight" style="width:100%"></center>
