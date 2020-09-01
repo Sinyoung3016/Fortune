@@ -2,7 +2,7 @@
 layout: post
 title: "[PYTHON] Python Comprehension"
 date: 2020-08-29 00:00:00
-categories: [SOPHOMORE]
+categories: [STUDY]
 tags: [PYTHON]
 last_modified_at: 2020-08-29
 ---

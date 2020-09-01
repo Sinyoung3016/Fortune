@@ -2,7 +2,7 @@
 layout: post
 title: "[ALGORITHM] Algorithm Tutorial(ing)"
 date: 2020-08-24 00:00:00
-categories: [SOPHOMORE]
+categories: [STUDY]
 tags: [ALGORITHM]
 last_modified_at: 2020-08-24
 ---

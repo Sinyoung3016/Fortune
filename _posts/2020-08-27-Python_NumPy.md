@@ -2,7 +2,7 @@
 layout: post
 title: "[PYTHON] NumPy"
 date: 2020-08-27 00:00:00
-categories: [SOPHOMORE]
+categories: [STUDY]
 tags: [PYTHON]
 last_modified_at: 2020-08-27
 ---
