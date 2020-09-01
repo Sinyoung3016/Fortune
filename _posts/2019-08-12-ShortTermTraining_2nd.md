@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ShortTerm_Training] Company Tour"
+title: "[SILICON_VALLEY] Company Tour"
 date: 2019-08-12 00:00:00
 categories: [FRESHMAN]
 tags: [SILICON_VALLEY]
@@ -15,7 +15,7 @@ last_modified_at: 2020-07-23
 ## Adobe
 
 <figure>
-  <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_09.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/ShortTerm2/KakaoTalk_20200723_161419783_09.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Adobe</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ last_modified_at: 2020-07-23
 ## Google
 
 <figure>
-  <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_08.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/ShortTerm2/KakaoTalk_20200723_161419783_08.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Google</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ last_modified_at: 2020-07-23
 ## Airbnb
 
 <figure>
-  <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_07.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/ShortTerm2/KakaoTalk_20200723_161419783_07.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Airbnb</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ last_modified_at: 2020-07-23
 ## Computer History Museum
 
 <figure>
-  <center><img src="/Fortune/assets/ShortTerm2/KakaoTalk_20200723_161419783_06.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/ShortTerm2/KakaoTalk_20200723_161419783_06.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Computer History Museum</figcaption>
 </figure>
 

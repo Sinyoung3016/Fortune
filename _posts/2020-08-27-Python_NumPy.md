@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[NumPy] NumPy 기초 정리"
+title: "[PYTHON] NumPy"
 date: 2020-08-27 00:00:00
 categories: [SOPHOMORE]
 tags: [PYTHON]
@@ -37,7 +37,7 @@ print(type(arr))
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/01.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/01.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 ```{.python}
@@ -54,7 +54,7 @@ print(arr)
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/02.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/02.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 ```{.python}
@@ -75,7 +75,7 @@ print(c.ndim)
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/03.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/03.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -102,7 +102,7 @@ print(arr[0:3, 1:4])
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/04.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/04.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -130,7 +130,7 @@ print(newarr.dtype, "\n")
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/05.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/05.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -157,7 +157,7 @@ print(y.base)
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/06.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/06.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -180,7 +180,7 @@ print('shape of array :', arr.shape)
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/07.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/07.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -201,7 +201,7 @@ print(newarr.base)
 
 ```
 <figure>
-  <center><img src="/Fortune/assets/Numpy/08.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/08.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -236,7 +236,7 @@ for idx, x in np.ndenumerate(arr):
 
 ```
 <figure>
-  <center><img src="/Fortune/assets/Numpy/09.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/09.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -283,7 +283,7 @@ print(arr)
 
 ```
 <figure>
-  <center><img src="/Fortune/assets/Numpy/10.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/10.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -305,7 +305,7 @@ for i in range(len(newarr)):
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/11.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/11.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -342,7 +342,7 @@ print(x) #return array
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/12.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/12.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -361,7 +361,7 @@ print(np.sort(arr))
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/13.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/13.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -399,7 +399,7 @@ print(newarr)
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/14.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/14.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
@@ -453,7 +453,7 @@ print(type(myadd))
 ```
 
 <figure>
-  <center><img src="/Fortune/assets/Numpy/15.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/Python/Numpy/15.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 

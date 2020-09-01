@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "[Python] Python Comprehension"
+title: "[PYTHON] Python Comprehension"
 date: 2020-08-29 00:00:00
 categories: [SOPHOMORE]
 tags: [PYTHON]
 last_modified_at: 2020-08-29
 ---
 
-With Python
-https://mingrammer.com/introduce-comprehension-of-python/
+From [https://mingrammer.com/introduce-comprehension-of-python/](https://mingrammer.com/introduce-comprehension-of-python/)
+<br>With Python
 
 ---
 
@@ -112,7 +112,7 @@ for i in gen:
 ```
 
 <figure>
-<center><img src="/Fortune/assets/PC/01.png" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/Python/PC/01.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <p>Generator</p>
@@ -140,7 +140,7 @@ for r in range(3):
 ```
 
 <figure>
-<center><img src="/Fortune/assets/PC/02.png" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/Python/PC/02.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <p>Generator Expression</p>
@@ -161,7 +161,7 @@ print(sum(gen))
 ```
 
 <figure>
-<center><img src="/Fortune/assets/PC/03.png" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/Python/PC/03.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>

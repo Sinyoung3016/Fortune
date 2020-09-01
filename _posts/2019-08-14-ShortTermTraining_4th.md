@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ShortTerm_Training] 51 Conference -02"
+title: "[SILICON_VALLEY] 51 Conference -02"
 date: 2019-08-14 00:00:00
 categories: [FRESHMAN]
 tags: [SILICON_VALLEY]
@@ -20,7 +20,7 @@ last_modified_at: 2020-07-23
 ##### 둘째날 in Google Community Space
 
 <figure>
-  <center><img src="/Fortune/assets/51C/KakaoTalk_20200723_161419783_04.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/51C/KakaoTalk_20200723_161419783_04.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Design Sprint</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ __4. Pitching & Storytelling__
 <br>
 
 <figure>
-  <center><img src="/Fortune/assets/51C/KakaoTalk_20200723_161419783_03.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/51C/KakaoTalk_20200723_161419783_03.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Team2</figcaption>
 </figure>
 

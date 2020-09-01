@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[AL] Light Algorithm(ing)"
+title: "[ALGORITHM] Algorithm Tutorial(ing)"
 date: 2020-08-24 00:00:00
 categories: [SOPHOMORE]
 tags: [ALGORITHM]

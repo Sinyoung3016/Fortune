@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ShortTerm_Training] Post Conference"
+title: "[SILICON_VALLEY] Post Conference"
 date: 2019-08-15 00:00:00
 categories: [FRESHMAN]
 tags: [SILICON_VALLEY]
@@ -17,7 +17,7 @@ last_modified_at: 2020-07-23
 ##### 첫째날 in Studio, Yahoo와 Contraband Coffee 근처
 
 <figure>
-  <center><img src="/Fortune/assets/PostC/KakaoTalk_20200723_161419783_02.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/PostC/KakaoTalk_20200723_161419783_02.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Post Conference</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ __멘토님들이 강의에서 강조하신 부분__
 <br>
 
 <figure>
-  <center><img src="/Fortune/assets/PostC/KakaoTalk_20200723_161419783_01.jpg" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/PostC/KakaoTalk_20200723_161419783_01.jpg" alt="Midnight" style="width:100%"></center>
   <figcaption>Contraband Coffee and The Halal Guys</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ __멘토님들이 강의에서 강조하신 부분__
 ##### 둘째날 in Studio, San Fransisco Station 근처 어딘가 & Google
 
 <figure>
-  <center><img src="/Fortune/assets/PostC/KakaoTalk_20200723_161419783.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/PostC/KakaoTalk_20200723_161419783.png" alt="Midnight" style="width:100%"></center>
   <figcaption>Post Conference</figcaption>
 </figure>
 

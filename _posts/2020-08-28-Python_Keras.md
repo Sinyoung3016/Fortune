@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Keras] 케라스 정리(ing)"
+title: "[PYTHON] Keras 정리(ing)"
 date: 2020-08-28 00:00:00
 categories: [SOPHOMORE]
 tags: [PYTHON]
@@ -58,7 +58,7 @@ print(y_test)
 ```
 
 <figure>
-<center><img src="/Fortune/assets/keras/01.png" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/Python/keras/01.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 ---

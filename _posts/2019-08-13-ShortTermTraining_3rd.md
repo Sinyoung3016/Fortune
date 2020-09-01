@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ShortTerm_Training] 51 Conference -01"
+title: "[SILICON_VALLEY] 51 Conference -01"
 date: 2019-08-13 00:00:00
 categories: [FRESHMAN]
 tags: [SILICON_VALLEY]
@@ -20,7 +20,7 @@ last_modified_at: 2020-07-23
 
 
 <figure>
-  <center><img src="/Fortune/assets/51C/KakaoTalk_20200723_161419783_05.png" alt="Midnight" style="width:100%"></center>
+  <center><img src="/Fortune/assets/SiliconTrain/51C/KakaoTalk_20200723_161419783_05.png" alt="Midnight" style="width:100%"></center>
   <figcaption>51 Conference</figcaption>
 </figure>
 
