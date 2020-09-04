@@ -10,7 +10,6 @@ last_modified_at: 2020-09-03
 From [https://www.grabbing.me/b6f3571af1d444f2bef9c7a873f75121#85de9ce2d6944607b27483331926331b](https://www.grabbing.me/b6f3571af1d444f2bef9c7a873f75121#85de9ce2d6944607b27483331926331b)
 
 ---
-<br>&emsp;
 
 ### 1. 모바일 앱 기본 지식
 
