@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[NOTE] LogData"
+title: "[NOTE] IT A to Z -06 LogData"
 date: 2020-09-04 00:00:00
 categories: [FORTUNE]
 tags: [NOTE]
