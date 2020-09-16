@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[COMPUTER_ORGANIZATION] week 01-02"
+title: "[COMPUTER_ORGANIZATION] Computer Abstraction and Technology"
 date: 2020-09-15 00:00:00
 categories: [SOPHOMORE]
 tags: [COMPUTER_ORGANIZATION]
