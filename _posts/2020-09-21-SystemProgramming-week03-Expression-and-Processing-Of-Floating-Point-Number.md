@@ -1,0 +1,19 @@
+---
+layout: post
+title: "[SYSTEM_PROGRAMMING] Expression and Processing Of Float Point Number"
+date: 2020-09-21 00:00:00
+categories: [SOPHOMORE]
+tags: [SYSTEM_PROGRAMMING]
+last_modified_at: 2020-09-21
+---
+
+<figure>
+<center><img src="/Fortune/assets/sophomore/System/03.jpg" alt="Midnight" style="width:100%"></center>
+</figure>
+
+
+<br>
+<br>
+
+
+
