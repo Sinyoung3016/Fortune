@@ -106,6 +106,8 @@ public class DFS_recursive {
 
 <br>
 
+---
+
 ### Breadth First Search
 
 __BFS__

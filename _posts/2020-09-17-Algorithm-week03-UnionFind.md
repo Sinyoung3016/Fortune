@@ -48,6 +48,8 @@ __Disjoint Set 표현__
 
 <br>
 
+---
+
 ### Union Find Algorithm
 
 __Union__
