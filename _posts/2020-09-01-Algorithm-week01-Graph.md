@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ALGORITHM] Graph"
+title: "[알고리즘] Graph"
 date: 2020-09-01 00:00:00
 categories: [SOPHOMORE]
 tags: [ALGORITHM]

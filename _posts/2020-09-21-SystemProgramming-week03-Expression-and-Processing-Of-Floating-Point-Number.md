@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[SYSTEM_PROGRAMMING] Expression and Processing Of Float Point Number"
+title: "[시스템프로그래밍] Expression and Processing Of Float Point Number"
 date: 2020-09-21 00:00:00
 categories: [SOPHOMORE]
 tags: [SYSTEM_PROGRAMMING]

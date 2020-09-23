@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[SYSTEM_PROGRAMMING] Expression and Processing Of Integer(and Introduction)"
+title: "[시스템프로그래밍] Expression and Processing Of Integer(and Introduction)"
 date: 2020-09-08 00:00:00
 categories: [SOPHOMORE]
 tags: [SYSTEM_PROGRAMMING]

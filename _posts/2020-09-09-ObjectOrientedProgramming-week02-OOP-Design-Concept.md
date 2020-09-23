@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[OBJECT_ORIENTED_PROGRAMMING] OOP Design Concept"
+title: "[객체지향설계] OOP Design Concept"
 date: 2020-09-10 00:00:00
 categories: [SOPHOMORE]
 tags: [OBJECT_ORIENTED_PROGRAMMING]

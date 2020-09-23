@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ALGORITHM] DFS and BFS"
+title: "[알고리즘] DFS and BFS"
 date: 2020-09-17 00:00:00
 categories: [SOPHOMORE]
 tags: [ALGORITHM]

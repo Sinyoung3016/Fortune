@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[OBJECT_ORIENTED_PROGRAMMING] Clean Code"
+title: "[객체지향설계] Clean Code"
 date: 2020-09-10 00:00:00
 categories: [SOPHOMORE]
 tags: [OBJECT_ORIENTED_PROGRAMMING]

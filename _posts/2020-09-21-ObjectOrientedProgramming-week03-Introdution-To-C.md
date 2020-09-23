@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[OBJECT_ORIENTED_PROGRAMMING] Introduction To C"
+title: "[객체지향설계] Introduction To C"
 date: 2020-09-21 00:00:00
 categories: [SOPHOMORE]
 tags: [OBJECT_ORIENTED_PROGRAMMING]

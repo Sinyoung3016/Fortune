@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ALGORITHM] Union-Find Algorithm"
+title: "[알고리즘] Union-Find Algorithm"
 date: 2020-09-17 00:00:00
 categories: [SOPHOMORE]
 tags: [ALGORITHM]

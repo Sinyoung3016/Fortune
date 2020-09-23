@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ALGORITHM] Adjacency Matrix and List"
+title: "[알고리즘] Adjacency Matrix and List"
 date: 2020-09-09 00:00:00
 categories: [SOPHOMORE]
 tags: [ALGORITHM]
