@@ -7,6 +7,8 @@ tags: [ALGORITHM]
 last_modified_at: 2020-09-17
 ---
 
+[lab04](https://github.com/Sinyoung3016/Fortune_In_Sophomore/tree/master/AL02_Java/AL04)
+
 ### Depth First Search
 
 __DFS__
