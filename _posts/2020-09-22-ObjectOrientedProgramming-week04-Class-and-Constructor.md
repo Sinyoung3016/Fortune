@@ -4,7 +4,7 @@ title: "[객체지향설계] Class and Constructor"
 date: 2020-09-23 00:00:00
 categories: [SOPHOMORE]
 tags: [OBJECT_ORIENTED_PROGRAMMING]
-last_modified_at: 2020-09-23
+last_modified_at: 2020-09-29
 ---
 
 ### Class
@@ -239,6 +239,35 @@ A::A(int givenI, char * givenC){
 
 A::~A(){
   delete []c; //'new' 생성자에서 만든 메모리를 정리.
+}
+```
+
+```{.cpp}
+int i;
+
+class A {
+public:
+	~A() {
+	i = 10;
+	}
+};
+
+int foo() { //return 3
+	i = 3;
+	A object;
+	return i; //return으로 i = 3을 반환하고, 이후 소멸자에서 i = 10을 진행.
+}
+
+int &foo() { //return 10
+	i = 3;
+	A object;
+	return i; //레퍼런스를 반환하여, 반환 이후 10을 재할당 한것이 반영되어 출력
+}
+
+int foo() { //return 10
+	i = 3;
+	{   A object;   }
+    return i; //생성된 중괄호가 끝나면 바로 소멸자를 부름. 즉 return 전에 i에 10을 할당.
 }
 ```
 
