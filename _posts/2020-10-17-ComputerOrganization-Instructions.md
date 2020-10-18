@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[컴퓨터구조] Computer Abstraction and Technology"
-date: 2020-09-15 00:00:00
+title: "[컴퓨터구조] Instructions"
+date: 2020-10-17 00:00:00
 categories: [SOPHOMORE]
 tags: [COMPUTER_ORGANIZATION]
-last_modified_at: 2020-09-29
+last_modified_at: 2020-10-17
 ---
 
 <figure>
