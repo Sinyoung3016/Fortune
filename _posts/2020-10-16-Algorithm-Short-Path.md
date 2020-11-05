@@ -4,7 +4,7 @@ title: "[알고리즘] Shortest Path"
 date: 2020-10-16 00:00:00
 categories: [SOPHOMORE]
 tags: [ALGORITHM]
-last_modified_at: 2020-10-16
+last_modified_at: 2020-11-05
 ---
 
 ### Single Source Shortest Path
@@ -36,8 +36,35 @@ __Dijkstra's Algorithm__
 __Bellman-Ford Algorithm__
 
 <p>
-: 음수 가중치가 사이클을 형성할 때는 사용할 수 없음
+: 모든 간선을 탐색하면서, 간선이 잇는 출발 정점이 한 번이라고 방문한 정점이면,
+<br>해당 간선이 잇는 정점의 거리를 비교해서 갱신하고 이를 반복하는 알고리즘.
+<br>: 음수 가중치가 사이클을 형성할 때는 사용할 수 없음
+<br>: 해당 탐색을 n-1번 했을 때의 결과와 n번 했을 때의 결과가 같음
+<br>= 사이클이 없음
 </p>
+
+<p>
+1.모든 정점에 도달하는 가중치를 무한대로 초기화함.
+<br>2. 해당 간선을 사용했을 때의 경로의 가중치를 비교하고 갱신.
+<br>3. 정점의 개수 -1번 반복.
+</p>
+
+<p>
+다익스트라의 경우, 가중치가 양수만 존재하므로, 비용은 항상 증가함.
+<br>따라서 그리디하게 탐색해도 좋은 결과를 얻음.
+<br>그러나 음수 가중치가 존재한다면, 돌아갔을 때
+<br>더 작은 값을 얻을 수 있으므로 벨만 포드를 사용.
+</p>
+
+<figure>
+<center><img src="/Fortune/assets/sophomore/Algorithm/lec7-3.jpg" alt="Midnight" style="width:100%"></center>
+</figure>
+
+<p>
+* n번째와 n-1번째가 같지 않으므로 음의 사이클의 존재를 알 수 있음.
+<br>* 음의 사이클이 존재 = 최소 경로를 알 수 없음.
+</p>
+
 
 ---
 
