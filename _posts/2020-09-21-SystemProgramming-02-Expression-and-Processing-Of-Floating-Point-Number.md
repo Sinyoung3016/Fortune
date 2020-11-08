@@ -8,7 +8,7 @@ last_modified_at: 2020-09-24
 ---
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/System/03.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/System/03-1.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 <figure>
 <center><img src="/Fortune/assets/sophomore/System/03-2.jpg" alt="Midnight" style="width:100%"></center>

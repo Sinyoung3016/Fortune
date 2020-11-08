@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[시스템프로그래밍] Control Statement"
+title: "[시스템프로그래밍] Assembly Control"
 date: 2020-10-14 00:00:00
 categories: [SOPHOMORE]
 tags: [SYSTEM_PROGRAMMING]
