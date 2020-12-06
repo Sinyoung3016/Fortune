@@ -127,11 +127,11 @@ int main(){
 
 <br>* op : binary operator
 <br>* E : parameter pack에 확장되는 표현
-<br>* I : parameter pack에 확장되지 않는 표형
+<br>* I : parameter pack에 확장되지 않는 표현
 </p>
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/OOP/10.png" alt="Midnight" style="width:100%"></center>
+<center><img src="\Fortune\assets\sophomore\OOP\10.png" alt="Midnight" style="width:100%"></center>
 </figure>
 
 ```
@@ -147,6 +147,7 @@ int main(){
   //((42.5 + (-1.0)) + 0.5)
 }
 ```
+
 ---
 
 ### Functor = Function Object
@@ -155,8 +156,6 @@ int main(){
 : 함수와 비슷한 역할을 하지만 Object로 구현.
 <br>: 유연성이 있으며 상태를 저장할 수 있다는 장점이 있음.
 <br> : STL에 주로 사용.
-
-<br> : 함수 호출에 대한 operator overloading시, 항상 member function으로
 </p>
 
 ```{.cpp}

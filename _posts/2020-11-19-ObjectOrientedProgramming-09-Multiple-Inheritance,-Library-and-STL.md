@@ -87,8 +87,7 @@ class DogCat : public Cat, public Dog {
 
 public:
   void setAge(){
-    //age = 10; Error. ambigous
-    Cat::age = 10;
+    age = 10;
   }
 }
 

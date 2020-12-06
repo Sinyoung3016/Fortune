@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[객체지향설계] Introduction To C"
+title: "[객체지향설계] Introduction To C++"
 date: 2020-09-21 00:00:00
 categories: [SOPHOMORE]
 tags: [OBJECT_ORIENTED_PROGRAMMING]
@@ -14,7 +14,7 @@ last_modified_at: 2020-09-21
 <p>
 : 식별자의 범위를 지정.
 <br>* global scope or nested inside another Namespace
-<br>* doesnt terminate with a semicolon
+<br>* doesn't terminate with a semicolon
 <br>* Instance X
 </p>
 
@@ -121,7 +121,7 @@ void increment(int x){
   ++x; //계산된 값은 안에서만
 }
 
-main(){
+int main(){
   int x = 10;
   cout<< x <<endl; //10
 
@@ -142,7 +142,7 @@ void increment(int *x){
   ++*x; //메모리에서 수정했기 때문.
 }
 
-main(){
+int main(){
   int x = 10;
   cout<< x <<endl; //10
 

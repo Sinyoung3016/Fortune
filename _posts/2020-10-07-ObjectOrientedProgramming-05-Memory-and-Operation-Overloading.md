@@ -365,7 +365,7 @@ using namespace std::literals;
 class Animal {
   public:
 	explicit operator int() const {return 33;}
-    operator std::string const {return "Animal"s;}
+    operator std::string() const {return "Animal"s;}
 };
 
 int main(){

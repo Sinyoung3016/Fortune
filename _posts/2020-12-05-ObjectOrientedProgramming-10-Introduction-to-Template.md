@@ -56,7 +56,7 @@ void main(){
 #### Qualified Dependent Names
 
 <p>
-: qualified는 specofies scope을 정하는 것을 의미
+: qualified는 specified scope을 정하는 것을 의미
 <br>: typename 키워드를 통해서, type과 value에서의 모호함을 줄임.
 </p>
 
@@ -230,15 +230,13 @@ _template <parameter_list> class_key class_name <argument_list> declaration_
 </p>
 
 ```{.cpp}
-//explicit function
-
 template <class T>
 std::ostream& printPointee
 (std::ostream& out, const T* p){
   return out << *p << "\n";
 }
 
-//specialization
+//explicit function
 template <>
 std::ostream& printPointee<void>
 (std::ostream& out, const void* p){
@@ -256,8 +254,6 @@ int main(){
 ```
 
 ```{.cpp}
-//explicit class
-
 template <typename T>
 struct is_void : std::false_type{};
 template <>
@@ -291,114 +287,6 @@ int main(){
   Animal<int, bool> any2;
   Animal<int, int> any3;
 }
-```
-
-#### Assignment Operator
-
-<p>
-* Copy Assignment Operator
-<br>: T& operator= (const T&) {return *this;}
-<br>: 인자가 lvalue
-<br>
-<br>* Move Assignment Operator
-<br>: T& operator= (T&&) {return *this;}
-<br>: 인자가 rvalue
-</p>
-
-```{.cpp}
-class A {
-public:
-  int x, y;
-  A& operator= (const A& a) { //Copy
-    if(this != &a){
-      x = a.x;
-      y = a.y;
-    }
-    return *this;
-  }
-
-  A& operator= (A&& a) { //Move
-    x = a.x;
-    y = a.y;
-    return *this;
-  }
-};
-
-int main(){
-  A a(1,2);
-  A b(2,3);
-  a = b;      //copy : b==lvalue
-  a = A(3,4); //move : A(3,4)==rvalue
-}
-```
-
-#### std::cout <<
-
-<p>
-: 다양한 타입의 입력값을 가지고 있음.
-</p>
-
-```{.cpp}
-#include <iostream>
-#include <cstring>
-
-class MyString {
-  char * stringData;
-  public:
-    MyString(const char *c){
-      stringData = new char[strlen(stringData)];
-      strcpy(stringData, c);
-    }
-    char& operator[] (const int index) {
-      return stringData[index];
-    }
-    friend std::ostream& operator<< (std::ostream& os, Mystring& ms);
-};
-
-std::ostream& operator<< (std::ostream& os, MyString& ms){
-  os << ms.stringData;
-  return os;
-}
-
-int main(){
-  MyString ms("Hello");
-  std::cout << ms[1] << std::endl;
-  return 0;
-}
-
-//1. operator<< (std::cout, ms) return std::cout;
-//2. operator<< (std::cout, std::endl); return 출력값;
-```
-
-#### Conversion Operators
-
-<p>
-: 객체가 다른 타입이랑 연산을 가능하게 함.
-<br>: static이 아니며, return type이 없음.
-<br>: explicit과 implicit일때 차이가 있음.
-</p>
-
-```{.cpp}
-using namespace std::literals;
-
-class Animal {
-  public:
-	explicit operator int() const {return 33;}
-    operator std::string const {return "Animal"s;}
-};
-
-int main(){
-  Animal a;
-
-  int i(a);
-  int k = static_cast<int>(a);
-  //int k = a;는 implicit converion일때만 가능.
-  //explicit conversion operator(static_cast)을 사용해 Animal -> int로 전환.
-
-  std::string s(a);
-  std::string t = a;
-}
-
 ```
 
 <br>
