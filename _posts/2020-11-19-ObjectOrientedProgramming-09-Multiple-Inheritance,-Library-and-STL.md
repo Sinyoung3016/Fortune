@@ -162,7 +162,7 @@ __File Output__
 #include <string>
 
 int main(){
-  std::ifstream out("testWrite.txt"); //Can OverWrite existing file
+  std::ofstream out("testWrite.txt"); //Can OverWrite existing file
   std::string s;
 
   if(out.is_open()){
@@ -182,8 +182,8 @@ __File Output -Addition__
 #include <string>
 
 int main(){
-  std::ifstream out("testWrite.txt", std::ios::app);
-  //append 모드, 추가함.
+  std::ofstream out("testWrite.txt", std::ios::app);
+  //append 모드, 끝부분에 추가함.
   std::string s;
 
   if(out.is_open()){
