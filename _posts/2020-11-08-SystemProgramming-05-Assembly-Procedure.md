@@ -8,10 +8,11 @@ last_modified_at: 2020-11-08
 ---
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/System/06-1.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/SystemProgramming/시스템프로그래밍-12.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
+
 <figure>
-<center><img src="/Fortune/assets/sophomore/System/06-2.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/SystemProgramming/시스템프로그래밍-13.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>

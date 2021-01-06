@@ -8,13 +8,13 @@ last_modified_at: 2020-09-28
 ---
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/System/04-1.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/SystemProgramming/시스템프로그래밍-06.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 <figure>
-<center><img src="/Fortune/assets/sophomore/System/04-2.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/SystemProgramming/시스템프로그래밍-07.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 <figure>
-<center><img src="/Fortune/assets/sophomore/System/04-3.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/SystemProgramming/시스템프로그래밍-08.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 
 
