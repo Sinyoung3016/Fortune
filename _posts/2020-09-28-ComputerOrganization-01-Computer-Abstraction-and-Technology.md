@@ -8,19 +8,19 @@ last_modified_at: 2020-09-29
 ---
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/CO/01.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/ComputerOrganization/컴퓨터구조-01.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/CO/02.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/ComputerOrganization/컴퓨터구조-02.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/CO/03.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/ComputerOrganization/컴퓨터구조-03.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <figure>
-<center><img src="/Fortune/assets/sophomore/CO/04.jpg" alt="Midnight" style="width:100%"></center>
+<center><img src="/Fortune/assets/sophomore/ComputerOrganization/컴퓨터구조-04.jpg" alt="Midnight" style="width:100%"></center>
 </figure>
 
 <br>
