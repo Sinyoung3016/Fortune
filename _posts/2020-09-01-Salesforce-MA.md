@@ -2,7 +2,7 @@
 layout: post
 title: "[SALESFORCE] MA"
 date: 2020-09-01 00:00:00
-categories: [FORTUNE]
+categories: [READ]
 tags: [SALESFORCE]
 last_modified_at: 2020-09-01
 ---

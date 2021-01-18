@@ -2,7 +2,7 @@
 layout: post
 title: "[SALESFORCE] CRM"
 date: 2020-08-30 00:00:00
-categories: [FORTUNE]
+categories: [READ]
 tags: [SALESFORCE]
 last_modified_at: 2020-08-30
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "[NOTE] 주간 인프런 - 직무"
 date: 2020-08-26 00:00:00
-categories: [FORTUNE]
+categories: [READ]
 tags: [NOTE]
 last_modified_at: 2020-08-26
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "[NOTE] UI Design For Developer"
 date: 2020-09-08 00:00:00
-categories: [FORTUNE]
+categories: [READ]
 tags: [NOTE]
 last_modified_at: 2020-09-08
 ---

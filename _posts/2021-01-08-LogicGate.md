@@ -3,7 +3,7 @@ layout: post
 title: "[논리회로] 논리회로 정리"
 date: 2021-01-08 00:00:00
 categories: [SOPHOMORE]
-tags: [LogicGate]
+tags: [LOGICGATE]
 last_modified_at: 2021-01-08
 ---
 

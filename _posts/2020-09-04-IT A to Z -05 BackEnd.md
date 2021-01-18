@@ -2,7 +2,7 @@
 layout: post
 title: "[NOTE] IT A to Z -05 BackEnd"
 date: 2020-09-04 00:00:00
-categories: [FORTUNE]
+categories: [READ]
 tags: [NOTE]
 last_modified_at: 2020-09-04
 ---
