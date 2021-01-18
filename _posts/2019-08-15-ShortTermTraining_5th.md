@@ -39,6 +39,11 @@ __멘토님들이 강의에서 강조하신 부분__
 
 <br>
 
+<figure>
+  <center><img src="/Fortune/assets/SiliconTrain/PostC/2021-01-11222356.png" alt="Midnight" style="width:100%"></center>
+  <figcaption>Google Route</figcaption>
+</figure>
+
 ### Google Route
 <br>
 
